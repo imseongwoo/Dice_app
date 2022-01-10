@@ -7,3 +7,4 @@ dice app
 
 22.1.10 java코드 작성 완료
 
+<img width="80%" src = "![image](https://user-images.githubusercontent.com/26344560/148752393-c3cf342c-1e3d-4621-b891-92adb1338f56.png)"/>
